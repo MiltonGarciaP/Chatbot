@@ -1,0 +1,7 @@
+plataforma
+error
+cayo
+entrar
+salir
+bug
+problema
